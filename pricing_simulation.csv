@@ -1,3 +1,9 @@
+price_change_pct,new_price,predicted_demand,predicted_revenue
+-10%,1320.47,2057,2716159.40
+-5%,1393.83,1924,2681677.43
+0%,1467.19,1806,2649369.29
+5%,1540.55,1700,2618999.08
+10%,1613.91,1605,2590366.24
 "price_change_%,new_price,predicted_demand,predicted_revenue"
 "-10%,1320.47,2057,2716159.4"
 "-5%,1393.83,1924,2681677.43"
